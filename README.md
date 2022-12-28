@@ -1,5 +1,11 @@
 ### Olá, eu sou o ELder! 👋
 
+<div style= "display: inline_block"<br/>
+  <a href="https://linkedin.com/in/elder-ciencia-de-dados" target="blank"> <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div><br/>
+
+
+
 ![Elder GitHub stats](https://github-readme-stats.vercel.app/api?username=eldercamposds&show_icons=true&theme=merko)
 
 ## Tecnológias que utilizo

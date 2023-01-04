@@ -6,7 +6,7 @@
 
 
 
-![Elder GitHub stats](https://github-readme-stats.vercel.app/api?username=eldercamposds&show_icons=true&theme=merko)
+![Elder GitHub stats](https://github-readme-stats.vercel.app/api?username=eldercamposds&show_icons=true&theme=transparent)
 
 ## Tecnológias que utilizo
 

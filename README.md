@@ -44,7 +44,7 @@
 </div>
 
 ## Alguns projetos que desenvolvi:
-
+- [https://kleicipinheiroacademy.com.br](https://kleicipinheiroacademy.com.br)<br/>
 - [https://wordads.com.br](https://wordads.com.br)<br/>
 - [https://videntemaisa.com.br](https://videntemaisa.com.br)<br/>
 - [https://siqueiracampos.net.br](https://siqueiracampos.net.br)<br/>

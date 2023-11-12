@@ -1,4 +1,11 @@
-### Olá, eu sou o ELder! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elder+Campos;I'm+31+years+old;I'm+from+Brazil;I'm+a+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eldercamposds&bg_color=0d1117&color=ffffff&line=ffffff&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 <div style= "display: inline_block"<br/>
   <a href="https://linkedin.com/in/elder-ciencia-de-dados" target="_blank"> <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -36,4 +43,4 @@
 
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>

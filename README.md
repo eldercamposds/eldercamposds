@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldercamposds&layout=donut&theme=transparent)](https://github.com/eldercamposds/github-readme-stats)
 
-## Tecnológias 
+## Linguagens
 
 <div style= "display: inline_block"<br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,10 +31,14 @@
   <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
   <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="mongo" src="https://img.shields.io/badge/mongo-green?style=for-the-badge&logo=mongodb&logoColor=%23ffffff">
+  <img align="center" alt="mongo" src="https://img.shields.io/badge/mongo-green?style=for-the-badge&logo=mongodb&logoColor=%23ffffff">  
+</div>
 
+## Visualização de dados
 
-  
+<div style= "display: inline_block"<br/>
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20Bi-DC9F0D?style=for-the-badge&logo=powerbi&logoColor=%23fff"/>
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/Looker%20Studio-blue?style=for-the-badge&logo=looker&logoColor=%23fff"/>
 </div>
 
 ## Outros conhecimentos

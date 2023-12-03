@@ -45,7 +45,8 @@
 <div style= "display: inline_block"<br/>
   <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img align="center" alt="joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
-  <img align="center" alt="Goolge analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+  <img align="center" alt="Goolge Alytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
+  <img align="center" alt="Goolge Ads" src="https://img.shields.io/badge/Google%20Ads-blue?style=for-the-badge&logo=googleads&logoColor=white"/>
 </div>
 
 

@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elder+Campos;I'm+31+years+old;I'm+from+Brazil;I'm+a+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4254f5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elder+Campos;I'm+31+years+old;I'm+from+Brazil;I'm+a+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eldercamposds&bg_color=0d1117&color=ffffff&line=ffffff&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eldercamposds&bg_color=0d1117&color=4254F5&line=4254F5&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -23,18 +23,24 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/LINGUAGEM%20R-brightgreen?style=for-the-badge&logo=R&labelColor=%23256AB9&color=%23256AB9">
+  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/APACHE%20SPARK-brightgreen?style=for-the-badge&logo=APACHE%20SPARK&labelColor=%233A383C&color=%233A383C">
+
 </div>
 
-## SGDB's 
+## SGDB's e processamento de dados
 
 <div style= "display: inline_block"<br/>
   <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
   <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="mongo" src="https://img.shields.io/badge/mongo-green?style=for-the-badge&logo=mongodb&logoColor=%23ffffff">  
+  <img align="center" alt="hadoop" src="https://img.shields.io/badge/Hadoop%20-brightgreen?style=for-the-badge&logo=Apache%20Hadoop&logoColor=%23fff&labelColor=%234254f5&color=%234254f5">
+  <img align="center" alt="hive" src="https://img.shields.io/badge/Hive%20-brightgreen?style=for-the-badge&logo=Apache%20Hive&logoColor=%23fff&labelColor=%234254f5&color=%234254f5">
+
 </div>
 
-## Visualização de dados
+## BI
 
 <div style= "display: inline_block"<br/>
   <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20Bi-DC9F0D?style=for-the-badge&logo=powerbi&logoColor=%23fff"/>

@@ -17,26 +17,26 @@
 ## Some languages ​​and tools
 
 <div style= "display: inline_block"<br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/LINGUAGEM%20R-brightgreen?style=for-the-badge&logo=R&labelColor=%23256AB9&color=%23256AB9">
-  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/APACHE%20SPARK-brightgreen?style=for-the-badge&logo=APACHE%20SPARK&labelColor=%233A383C&color=%233A383C">
-  <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-  <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="mongo" src="https://img.shields.io/badge/mongo-green?style=for-the-badge&logo=mongodb&logoColor=%23ffffff">  
-  <img align="center" alt="hadoop" src="https://img.shields.io/badge/Hadoop%20-brightgreen?style=for-the-badge&logo=Apache%20Hadoop&logoColor=%23fff&labelColor=%234254f5&color=%234254f5">
-  <img align="center" alt="hive" src="https://img.shields.io/badge/Hive%20-brightgreen?style=for-the-badge&logo=Apache%20Hive&logoColor=%23fff&labelColor=%234254f5&color=%234254f5">
-  <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20Bi-DC9F0D?style=for-the-badge&logo=powerbi&logoColor=%23fff"/>
-  <img align="center" alt="powerbi" src="https://img.shields.io/badge/Looker%20Studio-blue?style=for-the-badge&logo=looker&logoColor=%23fff"/>
-  <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img align="center" alt="joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
-  <img align="center" alt="Goolge Alytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
-  <img align="center" alt="Goolge Ads" src="https://img.shields.io/badge/Google%20Ads-blue?style=for-the-badge&logo=googleads&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img align="center" alt="r" src="https://img.shields.io/badge/LINGUAGEM%20R-brightgreen?style=flat&logo=R&labelColor=%23256AB9&color=%23256AB9">
+  <img align="center" alt="spark" src="https://img.shields.io/badge/PYSPARK-brightgreen?style=flat&logo=APACHE%20SPARK&labelColor=%233A383C&color=%233A383C">
+  <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+  <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+  <img align="center" alt="mongo" src="https://img.shields.io/badge/mongo-green?style=flat&logo=mongodb&logoColor=%23ffffff">  
+  <img align="center" alt="hadoop" src="https://img.shields.io/badge/Hadoop%20-brightgreen?style=flat&logo=Apache%20Hadoop&logoColor=%23fff&labelColor=%234254f5&color=%234254f5">
+  <img align="center" alt="hive" src="https://img.shields.io/badge/Hive%20-brightgreen?style=flat&logo=Apache%20Hive&logoColor=%23fff&labelColor=%234254f5&color=%234254f5">
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20Bi-DC9F0D?style=flat&logo=powerbi&logoColor=%23fff"/>
+  <img align="center" alt="powerbi" src="https://img.shields.io/badge/Looker%20Studio-blue?style=flat&logo=looker&logoColor=%23fff"/>
+  <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&logoColor=white"/>
+  <img align="center" alt="joomla" src="https://img.shields.io/badge/Joomla-5091CD?style=flat&logo=joomla&logoColor=white"/>
+  <img align="center" alt="Goolge Alytics" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white"/>
+  <img align="center" alt="Goolge Ads" src="https://img.shields.io/badge/Google%20Ads-blue?style=flat&logo=googleads&logoColor=white"/>
 </div>
 
 

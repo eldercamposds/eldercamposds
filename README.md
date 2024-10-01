@@ -13,6 +13,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldercamposds&layout=donut&theme=transparent)](https://github.com/eldercamposds/github-readme-stats)
+![snake gif](https://github.com/eldercamposds/eldercamposds/blob/output/github-contribution-grid-snake.svg)
 
 ## Some languages ​​and tools
 

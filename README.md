@@ -13,7 +13,13 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldercamposds&layout=donut&theme=transparent)](https://github.com/eldercamposds/github-readme-stats)
-![snake gif](https://github.com/eldercamposds/eldercamposds/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldercamposds/eldercamposds/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: ligth)" srcset="https://raw.githubusercontent.com/eldercamposds/eldercamposds/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eldercamposds/eldercamposds/output/github-contribution-grid-snake.svg">
+</picture> 
+
 
 ## Some languages ​​and tools
 

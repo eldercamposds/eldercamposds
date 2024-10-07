@@ -46,7 +46,7 @@
   <img align="center" alt="Goolge Ads" src="https://img.shields.io/badge/Google%20Ads-blue?style=flat&logo=googleads&logoColor=white"/>
   <img align="center" alt="Git Lab" src="https://img.shields.io/badge/GIT%20LAB-brightgreen?style=flat&logo=gitlab&labelColor=%235A5A5A&color=%235A5A5A"/>
   <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-brightgreen?style=flat&logo=jupyter&labelColor=%235A5A5A&color=%235A5A5A"/>
-  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Jupyter-brightgreen?style=flat&logo=googlecolab&labelColor=%235A5A5A&color=%235A5A5A"/>
+  <img align="center" alt="Static Badge" src="https://img.shields.io/badge/Coolab-brightgreen?style=flat&logo=googlecolab&labelColor=%235A5A5A&color=%235A5A5A"/>
 
 
 

@@ -35,6 +35,14 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=eldercamposds&row=1&column=4&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+<br>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eldercamposds/eldercamposds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eldercamposds/eldercamposds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eldercamposds/eldercamposds/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
 

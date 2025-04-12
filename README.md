@@ -35,4 +35,9 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=eldercamposds&row=1&column=4&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/eldercamposds/count.svg?"  />
+</div>
+
+###
 
